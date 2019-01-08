@@ -1,7 +1,7 @@
 # modul2
 lat1
 ![alt text](https://github.com/ClarissaSanindita/modul2/blob/master/Hasil/lat1.PNG)
-lat12
+lat2
 ![alt text](https://github.com/ClarissaSanindita/modul2/blob/master/Hasil/lat2.PNG)
 lat3
 ![alt text](https://github.com/ClarissaSanindita/modul2/blob/master/Hasil/lat3.PNG)
